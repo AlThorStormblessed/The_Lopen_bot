@@ -1,6 +1,6 @@
 # The_Lopen_bot
 
-[u/The_Lopen_bot](https://www.reddit.com/user/The_Lopen_bot/) is a chatbot active on Reddit, on mutiple subreddits of 100k+ users, such as r/Cremposting, r/Cosmere, r/Stormlight_Archive, r/BrandonSanderson, r/Mistborn and r/WetlanderHumor. The bot is based on the fantasy character Lopen from the series Stormlight Archive by author Brandon Sanderson.
+[u/The_Lopen_bot](https://www.reddit.com/user/The_Lopen_bot/) is a chatbot active on Reddit, on multiple subreddits of 100k+ users, such as r/Cremposting, r/Cosmere, r/Stormlight_Archive, r/BrandonSanderson, r/Mistborn and r/WetlanderHumor. The bot is based on the fantasy character Lopen from the series Stormlight Archive by author Brandon Sanderson.
 
 ![image](https://github.com/user-attachments/assets/f9bdb2bd-29c1-42fd-a7a0-4012567d12d0)
 
